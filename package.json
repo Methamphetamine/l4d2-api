@@ -1,0 +1,27 @@
+{
+  "name": "website-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "authentication": "^0.0.4",
+    "author": "^1.0.0",
+    "canvas": "^3.1.0",
+    "doco": "^0.3.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "index.js": "^0.0.3",
+    "mysql2": "^3.6.3",
+    "plugin": "^0.3.3",
+    "plugins": "^0.4.2",
+    "route-cache": "^0.6.1"
+  }
+}
